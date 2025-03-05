@@ -34,8 +34,3 @@ Identificar qué características del empleo y de la persona tienen mayor impact
 - `analisis eph.ipynb`: Código del análisis.
 -  Dataset utilizado: https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos
 - `EPH- Project ML.pdf`: Resumen visual del análisis (opcional).
-
-
-- Si el dataset no es público, puedes compartir solo un ejemplo o explicar cómo obtenerlo.
-
-¡Listo! Ahora puedes completar y personalizar los README según lo necesites. 🚀
